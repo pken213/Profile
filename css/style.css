@@ -98,6 +98,7 @@
   .logo{
     text-align: center;
     background-color: bisque;
+
   }
   .home1{
     background-color:beige;
@@ -117,7 +118,8 @@
     background-color: beige;
   }
   .title1{
-    font-size: 1cm;
+    font-size: 150%;
+    background-color: beige;
   }
   .p1{
     font-size: 60%;
@@ -126,10 +128,16 @@
     background-color: bisque;
   }
   .logo1{
-    text-align: left;
+    text-align: center;
  
   }
   .p2{
-    font-size: .1%;
+    font-size: 1%;
     float:left;
+  }
+  .contact1{
+    text-align: center;
+  }
+  .soc1{
+    text-align: center;
   }
